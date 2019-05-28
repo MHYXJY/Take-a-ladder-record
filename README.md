@@ -1,5 +1,5 @@
 # Remember-a-ladder-ride
-完成时间 2019/5/22 达成的目的:从中国到美国的服务器
+Completion time 2019/5/22: Servers from China to the United States
 
 Requirements for purchasing servers:
 
